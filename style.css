@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(183, 237, 247);
+}
+#videobox{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+    height: 90vh;
+    width: 100%px;
+
+}
+.video-container{
+    height: 100%;
+    border: 2px solid black;
+
+}
+.video-player{
+    height: 100%;
+    width: 100%;
+}
+#controls{
+    display: flex;
+    justify-content: center;
+    gap:20px;
+    padding-top: 10px;
+}
+button{
+    border: none;
+    background-color: rgb(5, 82, 85);
+    color: white ;
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 2px;
+    cursor: pointer;
+}
