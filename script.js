@@ -1,5 +1,5 @@
 const APP_ID= "22da7de4ed234ba0b942535195b26b18"
-const TOKEN = "007eJxTYDhQX5pycpNLh8XkiAWbi1fe6V7dlvzeLaMxddPrsywnrpoqMBgZpSSap6SapKYYGZskJRokWZoYmRqbGlqaJhmZJRla3NRUS28IZGQoDqxgZGSAQBCflyGgKLMyMa84o9Q5I7GEgQEAHZAkOA=="
+const TOKEN = "007eJxTYMi/72bsd0l2+QfFjopzRUk/rhUmNZw3MNq/hY/b0me21TMFBiOjlETzlFST1BQjY5OkRIMkSxMjU2NTQ0vTJCOzJEOLj9vV0xsCGRmYC5mYGRkgEMTnZQgoyqxMzCvOKHXOSCxhYAAAYMch6A=="
 const CHANNEL = "PriyanshuChat"
 
 const client = AgoraRTC.createClient({mode:'rtc', codec:'vp8'})
